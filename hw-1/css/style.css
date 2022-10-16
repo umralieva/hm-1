@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.blockOne {
+    width: 406px;
+    height: 400px;
+    position: relative;
+    border: 2px solid black;
+
+}
+.blockTwo {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 3px solid blue;
+    background-color: rgb(118, 152, 255);
+
+}
+
+.check{
+   background-color: rgb(230, 128, 13);
+    font-size: 15px;
+    width: 60px;
+    height: 25px;
+    border: 2px solid rgb(250, 198, 109);
+}
