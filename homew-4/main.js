@@ -1,4 +1,3 @@
-// const { request } = require("express");
 
 const btn = document.querySelector(".btn")
 
