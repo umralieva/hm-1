@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: cornflowerblue;
+}
+
+.wrapper > div {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 30px;
+}
+
+input {
+  padding: 10px 20px;
+}
+
+.rub {
+  margin-top: 40px;
+}
+
+.usd {
+  margin-top: 40px;
+}
